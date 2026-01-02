@@ -54,9 +54,6 @@ java CalculatorClient
 The GUI window will appear. Enter two numbers, select an operation, and see the result.
 
 Screenshot
-
-Include a screenshot of the GUI in the images folder and reference it like this:
-
 ![Calculator GUI](images/screenshot.png)
 
 Notes
@@ -68,6 +65,4 @@ Division by zero is handled by the server and will show an error dialog.
 All RMI logic is contained in CalculatorServer and CalculatorImpl. The client is purely for user interaction.
 
 Author
-
-Your Name
 Maramawit Esualegn
